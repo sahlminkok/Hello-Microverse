@@ -208,6 +208,6 @@ I would like to thank Microverse.
 
 This project is copyright of [Sahalu Aminu]
 
-This project is [MIT](LICENSE.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
